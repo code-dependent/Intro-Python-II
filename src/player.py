@@ -6,3 +6,4 @@ class Player:
         self.gender = gender
         self.location = location
         self.healthpts = healthpts
+        self.keys = set()
